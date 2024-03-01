@@ -12,47 +12,46 @@
 
 - [Sobre o Projeto](#sobre-o-projeto)
 - [Objetivos do Projeto](#objetivos-do-projeto)
-- [Funcionalidades do Projeto](#funcionalidades-do-projeto)
 - [Tecnologias Utilizadas](#tecnolgias-utilizadas)
 - [Layouts](#layouts)
   - [Desktop Layout](#desktop-layout)
   - [Tablet Layout](#tablet-layout)
   - [Mobile Layout](#mobile-layout)
-- [Adaptações](#adaptações)
 - [Autor](#autor)
 
 ## Sobre o Projeto
 
+Esse projeto foi feito com a instrução de [**Luan Alves**](https://github.com/luanalvesdev), instrutor da Alura.
 
+No [curso](https://cursos.alura.com.br/course/css-construindo-layouts-com-grid) ele ensina como construir uma página web com layout grid.
 
 ## Objetivos do Projeto
 
-
-
-## Funcionalidades do Projeto
-
-
+- Identificar as principais caracteristicas de um layout baseado em grid;
+- Resposividade com propriedades grid.
 
 ## Tecnolgias Utilizadas
 
-
+1. HTML
+2. CSS
 
 ## Layouts
 
 ### Desktop Layout
 
+**Width 1440px:** https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/wavecast-1440px.jpg
+
 ### Tablet Layout
+
+**Width 768px:** https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/wavecast-768px.jpg
 
 ### Mobile Layout
 
-## Adaptações
+**Width 480px:** https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/wavecast-480px.jpg
 
 ## Autor
 
-- Nome(s), redes e forma de contato. 
-- Talvez um breve resumo sobre cada um.
-
-Meu nome é **Alexandre Coelho**, sou autor deste ReadMe e estudante de Desenvolvimento Web. [Falar sobre meu papel no projeto, seu eu fiz tudo ou só modifiquei.
+Meu nome é **Alexandre Coelho**, sou autor deste ReadMe e estudante de Desenvolvimento Web. Fiz esse projeto com a orientação do instrutor  [**Luan Alves**](https://github.com/luanalvesdev). Todo o HTML já estava pronto e o CSS estava parcialmente pronto, sendo o foco do curso a construção com o Grid.
 
 Logo abaixo estão os meus principais links, fique a vontade de acessar o que mais lhe interessar:
 
