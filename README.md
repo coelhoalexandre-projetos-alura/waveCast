@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto Arquitetura CSS </h1>
+<h1 align="center"> Projeto WaveCast </h1>
 
 <p align="center">  </p>
 
